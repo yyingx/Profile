@@ -1,0 +1,62 @@
+# > Twitter
+DOMAIN-SUFFIX,pscp.tv,Twitter
+DOMAIN-SUFFIX,periscope.tv,Twitter
+DOMAIN-SUFFIX,t.co,Twitter
+DOMAIN-SUFFIX,twimg.co,Twitter
+DOMAIN-SUFFIX,twimg.com,Twitter
+DOMAIN-SUFFIX,twitpic.com,Twitter
+DOMAIN-SUFFIX,vine.co,Twitter
+DOMAIN-KEYWORD,twitter,Twitter 
+
+# > Line
+DOMAIN-SUFFIX,line.me, Line
+DOMAIN-SUFFIX,line-apps.com, Line
+DOMAIN-SUFFIX,line-scdn.net, Line
+DOMAIN-SUFFIX,naver.jp, Line
+IP-CIDR,103.2.30.0/23, Line
+IP-CIDR,125.209.208.0/20, Line
+IP-CIDR,147.92.128.0/17, Line
+IP-CIDR,203.104.144.0/21, Line
+
+# > Instagram
+host-suffix, instagram.com, Instagram
+host-suffix, cdninstagram.com, Instagram
+host-suffix, fbcdn.net, Instagram
+
+# > Spark
+domain-suffix, api.amplitude.com, Spark
+domain-suffix, app.smartmailcloud.com, Spark
+domain-suffix, firebaseio.com, Spark
+domain-suffix, gate.hockeyapp.net, Spark
+
+# > Yahoo
+DOMAIN-SUFFIX,yahoo.com,Yahoo
+DOMAIN-SUFFIX,yimg.com,Yahoo
+
+# > Microsoft
+USER-AGENT,Microsoft*,Microsoft
+USER-AGENT,OneDrive*,Microsoft
+DOMAIN-KEYWORD,microsoft,Microsoft
+DOMAIN-SUFFIX,bing.com,Microsoft
+DOMAIN-SUFFIX,bing.net,Microsoft
+DOMAIN-SUFFIX,cloudappsecurity.com,Microsoft
+DOMAIN-SUFFIX,docs.com,Microsoft
+DOMAIN-SUFFIX,hotmail.com,Microsoft
+DOMAIN-SUFFIX,live.com,Microsoft
+DOMAIN-SUFFIX,live.net,Microsoft
+DOMAIN-SUFFIX,microsoft.com,Microsoft
+DOMAIN-SUFFIX,msedge.net,Microsoft
+DOMAIN-SUFFIX,msn.com,Microsoft
+DOMAIN-SUFFIX,office.com,Microsoft
+DOMAIN-SUFFIX,office.net,Microsoft
+DOMAIN-SUFFIX,office365.com,Microsoft
+DOMAIN-SUFFIX,onedrive.com,Microsoft
+DOMAIN-SUFFIX,onenote.com,Microsoft
+DOMAIN-SUFFIX,onenote.net,Microsoft
+DOMAIN-SUFFIX,onmicrosoft.com,Microsoft
+DOMAIN-SUFFIX,outlook.com,Microsoft
+DOMAIN-SUFFIX,outlookgroups.ms,Microsoft
+DOMAIN-SUFFIX,visualstudio.com,Microsoft
+DOMAIN-SUFFIX,windows.com,Microsoft
+DOMAIN-SUFFIX,windows.net,Microsoft
+DOMAIN-SUFFIX,windowsupdate.com,Microsoft
